@@ -25,6 +25,7 @@ La aplicación tiene una interfaz gráfica desarrollada en Java Swing, que permi
 
 Aquí hay un breve video que muestra cómo funciona la aplicación:
 
+![conversor](https://github.com/LoLgic/ConversorMoneda-Alura_Challenge/assets/107512491/e0a508e0-a79b-4f83-b971-de2f4a1c8f45)
 
 
 ## Capturas de pantalla
