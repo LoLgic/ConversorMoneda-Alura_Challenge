@@ -29,7 +29,7 @@ Aquí hay un breve video que muestra cómo funciona la aplicación:
 
 ## Capturas de pantalla
 
-
+![Captura de pantalla 2023-07-26 213435](https://github.com/LoLgic/ConversorMoneda-Alura_Challenge/assets/107512491/fdadf7a7-0992-49de-b6f8-eb4b996db22e)
 
 
 ## Requisitos del sistema
