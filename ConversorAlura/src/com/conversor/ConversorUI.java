@@ -2,7 +2,6 @@ package com.conversor;
 
 import java.awt.Color;
 import java.awt.Font;
-import java.awt.GridLayout;
 import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -22,8 +21,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
-import javax.swing.SwingConstants;
-import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
 public class ConversorUI {
